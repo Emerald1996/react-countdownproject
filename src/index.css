@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+}
+.btns{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+h1{
+    text-align: center;
+    color: aqua;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+}
+.btn{
+    background-color: aqua;
+    color: white;
+    padding: 0 20px;
+    cursor: pointer;
+    border-radius: .11em;
+    margin: 5px;
+}
+.btn:hover{
+    background-color: #25926ea9;
+}
